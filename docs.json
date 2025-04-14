@@ -36,7 +36,7 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "https://calc.ecsandbox.net/docs/openapi.json"
+        "openapi": "https://calc.ecsandbox.net/swagger-json"
     }
     ],
     "global": {
